@@ -14,7 +14,7 @@ n = int(input())
 
 while(True):
     if isprime(n):
-        print(f"The next prime no. is {n}")
+        print(n)
         break
     n+=1
 
